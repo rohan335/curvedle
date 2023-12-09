@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.883bb958.js",
-    "static/js/308.5d623592.js": "/static/js/308.5d623592.js",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon-16.png": "/favicon-16.png",
-    "serve.json": "/serve.json",
-    "manifest.json": "/manifest.json",
-    "main.883bb958.js.map": "/static/js/main.883bb958.js.map",
-    "308.5d623592.js.map": "/static/js/308.5d623592.js.map"
+    "main.js": "/curvedle/static/js/main.abbde80c.js",
+    "static/js/308.5d623592.js": "/curvedle/static/js/308.5d623592.js",
+    "favicon.ico": "/curvedle/favicon.ico",
+    "index.html": "/curvedle/index.html",
+    "favicon-32.png": "/curvedle/favicon-32.png",
+    "favicon-16.png": "/curvedle/favicon-16.png",
+    "serve.json": "/curvedle/serve.json",
+    "manifest.json": "/curvedle/manifest.json",
+    "main.abbde80c.js.map": "/curvedle/static/js/main.abbde80c.js.map",
+    "308.5d623592.js.map": "/curvedle/static/js/308.5d623592.js.map"
   },
   "entrypoints": [
     "static/js/308.5d623592.js",
-    "static/js/main.883bb958.js"
+    "static/js/main.abbde80c.js"
   ]
 }
